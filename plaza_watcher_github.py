@@ -131,8 +131,16 @@ def main():
     previous_set = load_previous_lines()
 
     new_lines = [ln for ln in current_lines if ln not in previous_set]
+
     if MUST_CONTAIN:
-        new_lines = [ln for ln in new_lines if MUST_CONTAIN.lower() in ln.lower()]
+        # Only alert if "Enschede" shows up somewhere among the new lines,
+        # but then keep ALL the new lines for the notification -- not just
+        # the one saying "Enschede" -- so you see the address, price, and
+        # room details too, not just the city name. This matters because
+        # on Plaza's listing cards, the city name is its own separate line
+        # from the address/price/room-type lines.
+        if not any(MUST_CONTAIN.lower() in ln.lower() for ln in new_lines):
+            new_lines = []
 
     save_lines(current_lines)
 
@@ -141,7 +149,7 @@ def main():
         return
 
     if new_lines:
-        preview = "\n".join(new_lines[:15])
+        preview = "\n".join(new_lines[:20])
         log(f"NEW CONTENT DETECTED ({len(new_lines)} new line(s)):\n{preview}")
         send_notification(
             title="Plaza: possible new listing!",
