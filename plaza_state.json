@@ -41,7 +41,6 @@
     "Maastricht",
     "15 m\u00b2",
     "Sorbonnelaan 188-A11",
-    "Sorbonnelaan 180-A03",
     "\u20ac500.00 \u00a0p.m",
     "Total rental price: \u20ac782.75",
     "Sorbonnelaan 178-B05",
@@ -66,8 +65,11 @@
     "Eindhoven",
     "\u20ac999.00 \u00a0p.m",
     "Total rental price: \u20ac999.00",
-    "De Veldmaat 10-807",
+    "De Veldmaat 10-332",
     "Enschede",
+    "\u2022 Studio \u2022 3rd Floor",
+    "19 m\u00b2",
+    "De Veldmaat 10-807",
     "\u2022 Studio \u2022 8th Floor",
     "22 m\u00b2",
     "\u20ac740.00 \u00a0p.m",
@@ -93,7 +95,6 @@
     "Pietersbergweg 617",
     "Total rental price: \u20ac1,164.25",
     "Pietersbergweg 427",
-    "\u2022 Studio \u2022 3rd Floor",
     "30 m\u00b2",
     "Total rental price: \u20ac1,234.75",
     "Bijlmerdreef 181-R",
@@ -128,8 +129,9 @@
     "Bijlmerdreef 171-N",
     "\u2022 Apartment \u2022 2nd Floor",
     "35 m\u00b2",
+    "4",
     "3",
-    "5",
+    "2",
     "12",
     "+",
     "\u2212",
@@ -137,5 +139,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-08-26T07:58:20.916075"
+  "checked_at": "2026-08-26T08:36:57.149600"
 }
