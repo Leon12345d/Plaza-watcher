@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "25 Advertisements found it. Refine further with the filters above.",
+    "24 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -41,10 +41,6 @@
     "Maastricht",
     "15 m\u00b2",
     "Sorbonnelaan 188-A11",
-    "\u20ac500.00 \u00a0p.m",
-    "Total rental price: \u20ac782.75",
-    "Sorbonnelaan 178-B05",
-    "\u2022 Studio \u2022 1st Floor",
     "\u20ac525.00 \u00a0p.m",
     "Total rental price: \u20ac807.75",
     "Sorbonnelaan 178-C01",
@@ -58,6 +54,7 @@
     "\u20ac601.00 \u00a0p.m",
     "Total rental price: \u20ac876.62",
     "Lunaweg 119",
+    "\u2022 Studio \u2022 1st Floor",
     "23 m\u00b2",
     "\u20ac761.00 \u00a0p.m",
     "Total rental price: \u20ac988.75",
@@ -120,7 +117,6 @@
     "Pietersbergweg 383",
     "\u2022 Apartment \u2022 3rd Floor",
     "42 m\u00b2",
-    "4",
     "3",
     "8",
     "+",
@@ -129,5 +125,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-08-26T20:11:18.453403"
+  "checked_at": "2026-08-26T23:28:41.895167"
 }
