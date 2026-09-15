@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "14 Advertisements found it. Refine further with the filters above.",
+    "13 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -45,9 +45,6 @@
     "De Veldmaat 10-223",
     "Enschede",
     "22 m\u00b2",
-    "De Veldmaat 10-416",
-    "\u2022 Studio \u2022 4th Floor",
-    "19 m\u00b2",
     "\u20ac754.00 \u00a0p.m",
     "Total rental price: \u20ac1,073.75",
     "Teteringsedijk 120-B26",
@@ -58,6 +55,7 @@
     "Total rental price: \u20ac1,077.54",
     "Van Embdenstraat 676",
     "Delft",
+    "\u2022 Studio \u2022 4th Floor",
     "\u20ac823.00 \u00a0p.m",
     "Total rental price: \u20ac1,090.68",
     "Rijswijkstraat 175-E19",
@@ -84,5 +82,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-09-15T17:47:49.447856"
+  "checked_at": "2026-09-15T20:29:00.925100"
 }
