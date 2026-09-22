@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "28 Advertisements found it. Refine further with the filters above.",
+    "27 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -35,16 +35,11 @@
     "Rijswijk",
     "\u2022 Room \u2022 2nd Floor",
     "16 m\u00b2",
-    "\u20ac500.00 \u00a0p.m",
-    "Total rental price: \u20ac782.75",
-    "Sorbonnelaan 176-B25",
-    "Maastricht",
-    "\u2022 Studio \u2022 1st Floor",
-    "15 m\u00b2",
     "\u20ac616.00 \u00a0p.m",
     "Total rental price: \u20ac791.00",
     "Volmerlaan 20-- 1.9",
     "\u2022 Room \u2022 Ground Floor",
+    "15 m\u00b2",
     "\u20ac621.00 \u00a0p.m",
     "Total rental price: \u20ac796.00",
     "Volmerlaan 20-B - 5.5",
@@ -53,6 +48,7 @@
     "Total rental price: \u20ac999.00",
     "De Veldmaat 10-128",
     "Enschede",
+    "\u2022 Studio \u2022 1st Floor",
     "29 m\u00b2",
     "\u20ac754.00 \u00a0p.m",
     "Total rental price: \u20ac1,073.75",
@@ -121,5 +117,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-09-22T18:20:49.214590"
+  "checked_at": "2026-09-22T21:25:41.885024"
 }
