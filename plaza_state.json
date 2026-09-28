@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "12 Advertisements found it. Refine further with the filters above.",
+    "10 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -41,14 +41,9 @@
     "Breda",
     "\u2022 Studio \u2022 1st Floor",
     "21 m\u00b2",
-    "Teteringsedijk 120-A10",
     "\u20ac768.00 \u00a0p.m",
     "Total rental price: \u20ac1,087.75",
     "Teteringsedijk 120-A5",
-    "\u20ac829.00 \u00a0p.m",
-    "Total rental price: \u20ac1,165.75",
-    "Teteringsedijk 120-A3",
-    "27 m\u00b2",
     "\u20ac1,195.00 \u00a0p.m",
     "Total rental price: \u20ac1,195.00",
     "Bogardeind 219-E5",
@@ -65,6 +60,7 @@
     "Total rental price: \u20ac1,290.00",
     "Bogardeind 219-F8",
     "\u2022 Studio \u2022 5th Floor",
+    "2",
     "4",
     "+",
     "\u2212",
@@ -72,5 +68,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-09-28T18:17:21.144894"
+  "checked_at": "2026-09-28T23:18:32.960957"
 }
