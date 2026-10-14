@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "27 Advertisements found it. Refine further with the filters above.",
+    "26 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -91,10 +91,6 @@
     "Total rental price: \u20ac1,155.25",
     "Pietersbergweg 573",
     "\u2022 Studio \u2022 8th Floor",
-    "Total rental price: \u20ac1,185.25",
-    "Pietersbergweg 693",
-    "\u2022 Apartment \u2022 14th Floor",
-    "34 m\u00b2",
     "Total rental price: \u20ac1,221.75",
     "Bijlmerdreef 191-R",
     "\u2022 Apartment \u2022 7th Floor",
@@ -122,9 +118,10 @@
     "\u20ac1,001.00 \u00a0p.m",
     "Total rental price: \u20ac1,298.07",
     "Jan de Oudeweg 562",
+    "\u2022 Apartment \u2022 14th Floor",
     "5",
     "4",
-    "11",
+    "10",
     "3",
     "+",
     "\u2212",
@@ -132,5 +129,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-10-14T17:48:19.516370"
+  "checked_at": "2026-10-14T20:59:18.550653"
 }
