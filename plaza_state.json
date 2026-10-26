@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "38 Advertisements found it. Refine further with the filters above.",
+    "37 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -45,10 +45,6 @@
     "Polakweg 13-B - 4.7",
     "\u2022 Room \u2022 2nd Floor",
     "16 m\u00b2",
-    "\u20ac615.00 \u00a0p.m",
-    "Meibergdreef 116",
-    "Amsterdam",
-    "23 m\u00b2",
     "\u20ac500.00 \u00a0p.m",
     "Total rental price: \u20ac781.75",
     "Sorbonnelaan 182-B31",
@@ -70,6 +66,7 @@
     "\u20ac601.00 \u00a0p.m",
     "Total rental price: \u20ac876.62",
     "Lunaweg 125",
+    "23 m\u00b2",
     "\u20ac747.00 \u00a0p.m",
     "Total rental price: \u20ac974.75",
     "Bomansplaats 95",
@@ -116,6 +113,7 @@
     "\u20ac857.00 \u00a0p.m",
     "Total rental price: \u20ac1,125.99",
     "Rijswijkstraat 175-G13",
+    "Amsterdam",
     "\u2022 Studio \u2022 6th Floor",
     "\u20ac1,195.00 \u00a0p.m",
     "Total rental price: \u20ac1,195.00",
@@ -140,7 +138,6 @@
     "Total rental price: \u20ac1,290.00",
     "Bogardeind 219-A7",
     "3",
-    "4",
     "20",
     "6",
     "+",
@@ -149,5 +146,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-10-26T16:56:00.835416"
+  "checked_at": "2026-10-26T21:15:05.588919"
 }
