@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "41 Advertisements found it. Refine further with the filters above.",
+    "40 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -84,14 +84,11 @@
     "De Lampendriessen 31-635",
     "Eindhoven",
     "20 m\u00b2",
-    "\u20ac829.00 \u00a0p.m",
-    "Total rental price: \u20ac1,077.54",
-    "Van Embdenstraat 530",
-    "Delft",
-    "\u2022 Studio \u2022 3rd Floor",
     "\u20ac836.00 \u00a0p.m",
     "Total rental price: \u20ac1,083.48",
     "Van Embdenstraat 522",
+    "Delft",
+    "\u2022 Studio \u2022 3rd Floor",
     "\u20ac932.00 \u00a0p.m",
     "Total rental price: \u20ac1,136.25",
     "Pietersbergweg 463",
@@ -136,6 +133,7 @@
     "Utrecht",
     "9",
     "2",
+    "3",
     "4",
     "19",
     "+",
@@ -144,5 +142,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-11-05T01:28:08.160001"
+  "checked_at": "2026-11-05T08:06:00.037854"
 }
