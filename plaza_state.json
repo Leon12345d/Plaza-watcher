@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "37 Advertisements found it. Refine further with the filters above.",
+    "36 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -28,11 +28,6 @@
     "18 m\u00b2",
     "Universit\u00e4tsstra\u00dfe 114-A00.11",
     "\u2022 Studio \u2022 Ground Floor",
-    "\u20ac439.50 \u00a0p.m",
-    "Total rental price: \u20ac722.25",
-    "Sorbonnelaan 180-A01",
-    "Maastricht",
-    "15 m\u00b2",
     "\u20ac494.00 \u00a0p.m",
     "Total rental price: \u20ac723.75",
     "G.J. Leonard Ankersmitlaan 61-F49",
@@ -45,6 +40,7 @@
     "\u20ac525.00 \u00a0p.m",
     "Total rental price: \u20ac806.75",
     "Sorbonnelaan 182-C32",
+    "Maastricht",
     "\u2022 Studio \u2022 2nd Floor",
     "17 m\u00b2",
     "\u20ac632.00 \u00a0p.m",
@@ -53,6 +49,7 @@
     "\u2022 Room \u2022 3rd Floor",
     "Total rental price: \u20ac807.75",
     "Sorbonnelaan 180-C14",
+    "15 m\u00b2",
     "\u20ac555.00 \u00a0p.m",
     "Total rental price: \u20ac828.65",
     "Lunaweg 421",
@@ -123,6 +120,7 @@
     "Total rental price: \u20ac1,303.69",
     "Reykjavikstraat 36",
     "Utrecht",
+    "2",
     "3",
     "5",
     "16",
@@ -133,5 +131,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-11-07T07:11:36.497226"
+  "checked_at": "2026-11-07T13:56:51.676952"
 }
