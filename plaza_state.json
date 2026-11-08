@@ -1,5 +1,10 @@
 {
   "lines": [
+    "This website uses cookies",
+    "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you\u2019ve provided to them or that they\u2019ve collected from your use of their services.\u00a0More information about cookies and NewNewNew's use of personal data can be found\u00a0here.",
+    "Show details",
+    "Allow all",
+    "Customize",
     "Intro text (not logged in)",
     "Are you looking for your ideal place to live? We offer smart urban living solutions that you can make your home. So we give you the home and freedom to live a vibrant city life.",
     "Country",
@@ -131,5 +136,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-11-08T01:15:45.110394"
+  "checked_at": "2026-11-08T07:20:56.065508"
 }
