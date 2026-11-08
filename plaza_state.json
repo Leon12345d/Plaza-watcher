@@ -1,10 +1,5 @@
 {
   "lines": [
-    "This website uses cookies",
-    "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you\u2019ve provided to them or that they\u2019ve collected from your use of their services.\u00a0More information about cookies and NewNewNew's use of personal data can be found\u00a0here.",
-    "Show details",
-    "Allow all",
-    "Customize",
     "Intro text (not logged in)",
     "Are you looking for your ideal place to live? We offer smart urban living solutions that you can make your home. So we give you the home and freedom to live a vibrant city life.",
     "Country",
@@ -13,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "36 Advertisements found it. Refine further with the filters above.",
+    "35 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -69,12 +64,11 @@
     "26 m\u00b2",
     "De Veldmaat 10-936",
     "19 m\u00b2",
-    "De Veldmaat 10-437",
-    "22 m\u00b2",
     "De Veldmaat 10-504",
     "\u2022 Studio \u2022 5th Floor",
     "De Veldmaat 10-605",
     "\u2022 Studio \u2022 6th Floor",
+    "22 m\u00b2",
     "\u20ac836.00 \u00a0p.m",
     "Total rental price: \u20ac1,083.48",
     "Van Embdenstraat 522",
@@ -129,12 +123,12 @@
     "3",
     "5",
     "16",
-    "7",
+    "6",
     "+",
     "\u2212",
     "Leaflet | \u00a9 OpenStreetMap contributers",
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-11-08T07:20:56.065508"
+  "checked_at": "2026-11-08T14:22:31.478426"
 }
