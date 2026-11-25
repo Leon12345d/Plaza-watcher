@@ -8,7 +8,7 @@
     "Housing type",
     "Number of bedrooms",
     "Services",
-    "65 Advertisements found it. Refine further with the filters above.",
+    "63 Advertisements found it. Refine further with the filters above.",
     "Show map",
     "SortObjectsBy:",
     "Total rent (low-high)",
@@ -112,13 +112,6 @@
     "De Veldmaat 10-826",
     "De Veldmaat 10-144",
     "De Veldmaat 10-912",
-    "\u20ac754.00 \u00a0p.m",
-    "Total rental price: \u20ac1,073.75",
-    "Teteringsedijk 120-E7",
-    "Breda",
-    "21 m\u00b2",
-    "Teteringsedijk 120-D23",
-    "\u2022 Studio \u2022 3rd Floor",
     "\u20ac829.00 \u00a0p.m",
     "Total rental price: \u20ac1,077.54",
     "Van Embdenstraat 184",
@@ -143,6 +136,7 @@
     "\u2022 Studio \u2022 5th Floor",
     "Bogardeind 219-E1",
     "Bogardeind 219-D6",
+    "\u2022 Studio \u2022 3rd Floor",
     "Bogardeind 219-E11",
     "Bogardeind 219-D2",
     "Bogardeind 219-E4",
@@ -152,6 +146,7 @@
     "Total rental price: \u20ac1,226.75",
     "Bijlmerdreef 189-F",
     "\u2022 Apartment \u2022 6th Floor",
+    "21 m\u00b2",
     "\u20ac1,275.00 \u00a0p.m",
     "Total rental price: \u20ac1,275.00",
     "Bogardeind 219-C24",
@@ -172,7 +167,6 @@
     "Utrecht",
     "\u2022 Apartment \u2022 4th Floor",
     "36 m\u00b2",
-    "2",
     "3",
     "19",
     "7",
@@ -184,5 +178,5 @@
     "We are Plaza Resident Services and we give you the home and freedom to live a vibrant city life.",
     "Register"
   ],
-  "checked_at": "2026-11-24T21:28:36.633113"
+  "checked_at": "2026-11-25T04:26:08.049505"
 }
